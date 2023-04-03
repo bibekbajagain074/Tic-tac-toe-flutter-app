@@ -217,7 +217,7 @@ class _HomePageState extends State<HomePage> {
                   clearBoard();
                   Navigator.of(context).pop();
                 },
-                child: Text('Play Again'),
+                child: Text('Play Again djfkdsfkl hdfkf'),
               ),
             ],
           );
