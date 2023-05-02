@@ -1,7 +1,4 @@
-// ignore_for_file: file_names
-
 import 'package:flutter/material.dart';
-import 'main.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({
@@ -100,7 +97,7 @@ class _HomePageState extends State<HomePage> {
                   SizedBox(
                     height: 50,
                   ),
-                  Text('@CREATEDBTBIBEKBG'),
+                  Text('@CREATEDBY BIBEK BG'),
                 ],
               )),
             ),
